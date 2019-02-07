@@ -1,2 +1,2 @@
 # WDI
-My WDI Repo
+A place for all my WDI projects
